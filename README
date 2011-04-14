@@ -1,0 +1,4 @@
+This script uses the API from CKAN.net to download the content of the LOD Cloud (http://lod-cloud.net) and create network files.
+
+A Pajek and two CSVs are generated.
+
