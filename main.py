@@ -62,19 +62,25 @@ def get_package(package, conn):
     data = {}
     if 'extras' in res:
         data = res['extras']
+
+	# Get the number of triples
     triples = 0
     if 'triples' in data:
-        triples = int(data['triples'])
+        try:
+            triples = int(data['triples'])
+        except:
+            # There was an error parsing the number, assume 0
+            pass
+
+    # If the package has less than 1000 triples, ignore it
+    if triples < 1000:
+        return -1;
 
     # If the package has no links, ignore it
     # Commented as the filtering is done on actual links declared
     #if 'tags' in res:
     #    if 'lodcloud.nolinks' in res['tags']:
     #        return -1
-
-    # If the package has less than 1000 triples, ignore it
-    if triples < 1000:
-        return -1;
 
     # Find a topic
     topic = '__unspecified__'
