@@ -115,16 +115,17 @@ def main():
     '''
     Create a .net file, using the Pajek format, representing
     the content of the LOD Cloud. All the data is fetched
-    from CKAN.
+    from TheDataHub (formerly CKAN).
     More information about the cloud available on
     http://lod-cloud.net/
     '''
     # Open a connection to CKAN
-    conn = http.client.HTTPConnection("ckan.net")
+    conn = http.client.HTTPConnection("thedatahub.org")
 
     # Get package list
     conn.request("GET", "/api/search/package?groups=lodcloud&limit=500")
-    res = json.loads(conn.getresponse().read().decode('utf-8'))
+    data = conn.getresponse().read().decode('utf-8')
+    res = json.loads(data)
     packages = res['results']
     print ("Got the name of %d packages" % len(packages))
 
