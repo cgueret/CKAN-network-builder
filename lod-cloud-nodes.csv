@@ -1,0 +1,299 @@
+Id,Label,Weight,Topic
+1,data.dcs,1.0,4
+2,IdRef: Sudoc authority data,4.0,4
+3,IBM (RKBExplorer),2.0,4
+4,Entrez Gene,3.0,8
+5,New York Times,2.0,4
+6,lobid-organisations,3.0,4
+7,TCMGeneDIT Dataset,2.0,8
+8,ACM (RKBExplorer),4.0,4
+9,University of Sussex Reading Lists,3.0,4
+10,MGI,3.0,8
+11,gnoss,3.0,5
+12,Sudoc bibliographic data,4.0,4
+13,SGD,3.0,8
+14,Airports,3.0,3
+15,Last.FM (rdfize),4.0,2
+16,Metoffice Weather Forecasts,4.0,6
+17,BBC Wildlife Finder,2.0,2
+18,Telegraphis,2.0,3
+19,Italian Museums,2.0,2
+20,Surge Radio,2.0,2
+21,FanHubz,3.0,2
+22,NASA (Data Incubator),2.0,6
+23,UniParc,4.0,8
+24,Hellenic FBD,3.0,6
+25,LinkedCT,4.0,8
+26,Discogs in RDF,4.0,2
+27,Linked Clean Energy Data (reegle.info),2.0,4
+28,EUNIS,4.0,3
+29,OpenCalais,3.0,3
+30,MusicBrainz (zitgist.com),4.0,2
+31,KISTI (RKBExplorer),4.0,4
+32,Scotland statistical geography,2.0,3
+33,UniRef,4.0,8
+34,Pokpdia,2.0,2
+35,Beneficiaries of the European Commission,3.0,6
+36,NALT,2.0,4
+37,dbpedia lite,4.0,7
+38,Lichfield District Council - Spending,2.0,6
+39,education.data.gov.uk,3.0,6
+40,LCSH,3.0,4
+41,RESEX (RKBExplorer.com),2.0,4
+42,EventMedia,4.0,5
+43,GeoSpecies Knowledge Base,3.0,8
+44,Amsterdam Museum,3.0,4
+45,Chronicling America,4.0,2
+46,Ordnance Survey Linked Data,3.0,6
+47,DrugBank,3.0,8
+48,IEEE (RKBExplorer),2.0,4
+49,SIDER,2.0,8
+50,JanusAMP,4.0,3
+51,NVD,1.0,4
+52,riese,3.0,3
+53,theses.fr,2.0,4
+54,Reactome,4.0,8
+55,Classical (DBtune),2.0,2
+56,MusicBrainz (DBTune),4.0,2
+57,KEGG Drug,2.0,8
+58,UniProt,4.0,8
+59,Turismo de Zaragoza,2.0,6
+60,Yahoo Geoplanet RDF,4.0,3
+61,DEPLOY (RKBExplorer),2.0,4
+62,GeoWordNet,4.0,3
+63,Polythematic Structured Subject Heading System,2.0,4
+64,SemanticTweet,3.0,5
+65,loius,4.0,4
+66,Open Corporates,4.0,1
+67,NHS (EnAKTing),4.0,6
+68,Revyu,2.0,5
+69,Chem2Bio2RDF,4.0,8
+70,Weather Stations,2.0,3
+71,semanticweb.org,2.0,5
+72,VIVO UF,3.0,4
+73,London Gazette,4.0,6
+74,AEMET metereological dataset,4.0,3
+75,UB Mannheim,4.0,4
+76,InterPro,3.0,8
+77,University of Plymouth Reading Lists,2.0,4
+78,CORDIS,3.0,6
+79,Bricklink,3.0,2
+80,CAS,3.0,8
+81,Accommodations in Piedmont (LinkedOpenData.it),2.0,3
+82,RDF Book Mashup,4.0,4
+83,Freebase,4.0,7
+84,BNB,4.0,4
+85,Nottingham Trent University Resource Lists,3.0,4
+86,Greek DBpedia,3.0,7
+87,KEGG Pathway,4.0,8
+88,DataGovIE,4.0,6
+89,LOCAH,2.0,4
+90,SEC (rdfabout),3.0,6
+91,DBTropes,3.0,2
+92,SemWeb Dog Food,2.0,5
+93,Norwegian Medical Subject Headings (MeSH),2.0,4
+94,PBAC,2.0,4
+95,DBLP (FU Berlin),4.0,4
+96,Eurostat,2.0,6
+97,Thesaurus W,2.0,4
+98,Population (EnAKTing),3.0,6
+99,RDFohloh,3.0,5
+100,PROSITE,3.0,8
+101,RISKS (RKBExplorer),2.0,4
+102,KEGG Glycan,2.0,8
+103,Linked EDGAR (OntologyCentral),4.0,6
+104,UniProt UniPathway,1.0,8
+105,Europeana,4.0,4
+106,TaxonConcept,4.0,8
+107,Ontos News Portal,3.0,5
+108,Climbing,2.0,3
+109,HGNC,3.0,8
+110,OpenData Thesaurus,1.0,6
+111,Affymetrix,4.0,8
+112,LinkedGeoData,5.0,3
+113,ECCO-TCP Eighteenth Century Texts Linked Data,2.0,4
+114,Newcastle (RKBExplorer),2.0,4
+115,GoogleArt wrapper,2.0,7
+116,Pfam,3.0,8
+117,OBO,3.0,8
+118,Enipedia - Energy Industry Data,3.0,7
+119,Brazilian Politicians,3.0,6
+120,UniSTS,3.0,8
+121,World Factbook,2.0,3
+122,Eurostat (FU Berlin),1.0,6
+123,Linked Open Colors,4.0,7
+124,meducator,2.0,7
+125,cnr.it,3.0,6
+126,Linked Sensor Data (Kno.e.sis),5.0,3
+127,OpenCyc,3.0,7
+128,GESIS,2.0,4
+129,NDL subjects,3.0,4
+130,Linked Crunchbase (OntologyCentral),4.0,5
+131,Ulm (RKBExplorer),2.0,4
+132,CiteSeer (RKBExplorer),3.0,4
+133,Rechtspraak.nl,3.0,6
+134,John Peel (DBtune),2.0,2
+135,data.gov.uk Intervals,5.0,6
+136,Goodwin Family,2.0,5
+137,DDC,2.0,4
+138,Cornetto,3.0,7
+139,Jamendo (DBtune),3.0,2
+140,BioCYC,4.0,8
+141,OS (RKBExplorer),2.0,4
+142,AGROVOC ,3.0,1
+143,EARTh,2.0,3
+144,PubChem,3.0,8
+145,BibBase,2.0,4
+146,data-open-ac-uk,3.0,4
+147,Magnatune (DBtune),2.0,2
+148,GovTrack,4.0,6
+149,GovWILD,4.0,6
+150,flickr wrappr,4.0,5
+151,LUF,2.0,5
+152,statistics.data.gov.uk,2.0,6
+153,MySpace (DBtune),4.0,2
+154,lingvoj,2.0,7
+155,Eurcom (RKBExplorer),2.0,4
+156,HomoloGene,3.0,8
+157,ECS Southampton,2.0,4
+158,Uberblic.org,4.0,7
+159,ECS Southampton EPrints,3.0,4
+160,smcjournals,2.0,3
+161,LEM as LOD,2.0,4
+162,WordNet (W3C),3.0,7
+163,data.bnf.fr - Bibliothque nationale de France,3.0,4
+164,EnAKTing CO2 Emission Dataset,3.0,6
+165,El Viajero's tourism dataset,3.0,2
+166,UniProt,4.0,8
+167,STITCH,4.0,8
+168,KEGG Enzyme,3.0,8
+169,Semantic XBRL,4.0,6
+170,GeoLinkedData,4.0,6
+171,Diseasome,2.0,8
+172,Scholarometer,3.0,4
+173,Deutsche Biographie,2.0,4
+174,Italian public schools (LinkedOpenData.it),2.0,4
+175,Source Code Ecosystem Linked Data,5.0,5
+176,UN/LOCODE (RKBExplorer),2.0,4
+177,WordNet (VUA),3.0,7
+178,ntnusc,1.0,4
+179,Roma (RKBExplorer),2.0,4
+180,Finnish Municipalities,2.0,6
+181,UniProt Taxonomy,3.0,8
+182,totl.net,2.0,7
+183,UMBEL,2.0,7
+184,KEGG Compound,2.0,8
+185,RAE2001  (RKBExplorer),3.0,4
+186,JISC (RKBExplorer),2.0,4
+187,t4gm.info,2.0,4
+188,EUTC Productions,2.0,2
+189,National Radioactivity Stat as Linked Data,2.0,6
+190,Street level crime reports for England and Wales,3.0,6
+191,DBpedia,5.0,7
+192,Calames,3.0,4
+193,ERA (RKBExplorer),2.0,4
+194,GenBank,3.0,8
+195,Wiki (RKBExplorer),2.0,4
+196,CORDIS (RKBExplorer),3.0,6
+197,OpenEI.org,4.0,6
+198,GND,4.0,7
+199,Didactalia,3.0,5
+200,tags2con delicious,2.0,5
+201,Pisa (RKBExplorer),2.0,4
+202,yovisto,3.0,5
+203,DailyMed,2.0,8
+204,LAAS (RKBExplorer),2.0,4
+205,LIBRIS,4.0,4
+206,Open Election Data Project,2.0,6
+207,DBLP (L3S),4.0,4
+208,Project Gutenberg (FUB),2.0,4
+209,transport.data.gov.uk,4.0,6
+210,Sears,4.0,1
+211,Traffic Scotland,2.0,6
+212,LODE,4.0,7
+213,UMTHES,2.0,6
+214,EURES,3.0,6
+215,bible ontology,2.0,4
+216,STW,2.0,4
+217,KEGG Reaction,2.0,8
+218,Energy (EnAKTing),3.0,6
+219,SmartLink,1.0,7
+220,Lexvo,2.0,7
+221,TWC LOGD,5.0,6
+222,Hellenic PD,2.0,6
+223,VIAF,4.0,4
+224,ChEBI,4.0,8
+225,patents.data.gov.uk,2.0,6
+226,PDB,3.0,8
+227,GEMET,4.0,1
+228,PubMed,4.0,8
+229,Manchester University Reading Lists,3.0,4
+230,research.data.gov.uk,2.0,6
+231,Semantic CrunchBase,3.0,7
+232,Pokedex (Data Incubator),2.0,2
+233,Ocean Drilling - Codices,4.0,3
+234,Klappstuhlclub ,1.0,5
+235,MusicBrainz (Data Incubator),4.0,2
+236,Eurostat (OntologyCentral),4.0,3
+237,ProductDB,3.0,7
+238,Twarql,3.0,3
+239,YAGO,4.0,7
+240,ndlna,4.0,6
+241,lobid-Resources,4.0,4
+242,Orthology and Diseases Information - OGO,4.0,8
+243,GeoNames,4.0,3
+244,ISTAT Immigration (LinkedOpenData.it),3.0,6
+245,P20,4.0,4
+246,GTAA,3.0,2
+247,ESD standards,2.0,6
+248,ePrints (RKBExplorer),3.0,4
+249,IRIT (RKB Explorer),2.0,4
+250,BBC Music,4.0,2
+251,Open Library (Talis),4.0,4
+252,dotAC (RKBExplorer),4.0,4
+253,Swedish Open Cultural Heritage,3.0,4
+254,Educational programs - SISVU,3.0,7
+255,Scotland pupil numbers and exam results 2008,2.0,6
+256,VIVO Indiana,3.0,4
+257,US Census (rdfabout),5.0,3
+258,Open Library,4.0,4
+259,OMIM,3.0,8
+260,ChEMBL,4.0,8
+261,ProDom,3.0,8
+262,SSW Thesaurus,2.0,5
+263,business.data.gov.uk,2.0,6
+264,radatana,3.0,4
+265,NSF (RKBExplorer),4.0,4
+266,VIVO Cornell,3.0,4
+267,UK Legislation,5.0,6
+268,EnAKTing Crime Dataset,1.0,6
+269,Openly Local,4.0,6
+270,iServe: Linked Services Registry,2.0,7
+271,OAI (RKBExplorer),4.0,4
+272,UK Postcodes,4.0,3
+273,RAMEAU subject headings (STITCH),3.0,4
+274,DBLP (RKBExplorer),4.0,4
+275,MARC Codes List,1.0,4
+276,NSZL Catalog,4.0,4
+277,St. Andrews University Resource Lists,3.0,4
+278,Product Types Ontology,4.0,7
+279,URIBurner,4.0,7
+280,Linked Open Numbers,4.0,7
+281,LinkedMDB,3.0,2
+282,Mortality (EnAKTing),2.0,6
+283,Last.FM artists (DBtune),4.0,2
+284,AudioScrobbler (DBTune),4.0,2
+285,myExperiment,3.0,5
+286,reference.data.gov.uk,2.0,6
+287,Budapest BME  (RKBExplorer),2.0,4
+288,MediCare,2.0,8
+289,Alpine Ski Racers of Austria,1.0,7
+290,Gene Ontology,3.0,8
+291,Courseware (RKBExplorer),2.0,4
+292,GeneID,4.0,8
+293,LinkedLCCN,3.0,4
+294,DBpedia in Portuguese,4.0,7
+295,Fishes of Texas,3.0,3
+296,Renewable Energy Generators,2.0,6
+297,ECS Southampton (RKBExplorer),2.0,4
+298,BBC Programmes,4.0,2
